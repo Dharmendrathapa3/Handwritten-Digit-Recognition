@@ -52,7 +52,8 @@ numpy
 
 matplotlib
 seaborn
-train_test_split 
+
+## For Performance Measures
 accuracy_score 
 precision_score  
 recall_score  
@@ -60,6 +61,7 @@ f1_score
 confusion_matrix 
 
 ## For Model traning and  Teting
+train_test_split 
 tf
 Sequential
 Dense
