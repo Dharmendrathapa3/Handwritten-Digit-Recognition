@@ -75,7 +75,7 @@ MaxPooling2D
 ```
 
 # Result and Analysis
-Different results are obtained based on the performance metrics (accuracy, precision, recall, and F1 score).  The results of training and testing with **RCNN** machine learning algorithms are displayed in the bar graph below.
+Different results are obtained based on the performance metrics (accuracy, precision, recall, and F1 score).  The results of training and testing with **CNN** machine learning algorithms are displayed in the bar graph below.
 
 ![Evaluation on Traning Data](./img/ev_train.png)
 ![Evaluation on Testing Data](./img/ev_test.png)
